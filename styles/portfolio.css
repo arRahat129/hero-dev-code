@@ -5,9 +5,9 @@
 }
 
 /* Shared Style */
-body {
+/* body {
     
-}
+} */
 
 .font-open-sans {
   font-family: "Open Sans", sans-serif;
@@ -61,7 +61,7 @@ body {
 header {
     background-color: #FFF8F3;
     background: url('../images/developer.png'), url('../images/header_bg.png'), #FFF8F3;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
